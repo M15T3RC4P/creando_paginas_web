@@ -1,7 +1,25 @@
-body{
+h1{
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: black;
-    color: white;
+    color: rgb(0, 0, 0);
+}
+
+span {
+    font-weight: bold;
+    color: rgb(9, 51, 238);
+}
+
+p {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+body {
+    background-color: rgb(226, 226, 226);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
